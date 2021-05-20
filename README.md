@@ -15,9 +15,20 @@ Movie Recommender System - Netflix
 ![image](https://user-images.githubusercontent.com/74420150/119030466-97618500-b9b2-11eb-821d-4ff472f8f992.png)
 
 
-# COLLABORATIVE FILTERING
-![image](https://user-images.githubusercontent.com/74420150/119030503-a3e5dd80-b9b2-11eb-89f2-bdc65524d639.png)
-
-
 # HYBRID APPROACH
-![image](https://user-images.githubusercontent.com/74420150/119030541-b102cc80-b9b2-11eb-8ab3-4f64763e2d02.png)
+![image](https://user-images.githubusercontent.com/74420150/119030590-c2e46f80-b9b2-11eb-8bb4-2f15fcec040d.png)
+
+
+
+# Results 
+
+# New User - TFIDF
+![image](https://user-images.githubusercontent.com/74420150/119030687-e60f1f00-b9b2-11eb-9c6e-9319c7f8c5de.png)
+
+
+# Already User - HYBRID APPROACH
+![image](https://user-images.githubusercontent.com/74420150/119030747-f7f0c200-b9b2-11eb-86f0-095ea1e1dbd0.png)
+
+
+# Recommender's Metrics 
+![image](https://user-images.githubusercontent.com/74420150/119030805-0b039200-b9b3-11eb-9611-0313cdc0e074.png)
