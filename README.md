@@ -1,9 +1,8 @@
 # Movie Recommender System - Netflix
 
-<p align="center">
   
 ![image](https://user-images.githubusercontent.com/74420150/119030380-7d27a700-b9b2-11eb-9e2a-a4ecb008c635.png)
-</p>
+
 
 
 ![image](https://user-images.githubusercontent.com/74420150/119030414-86187880-b9b2-11eb-8370-90001df2861d.png)
